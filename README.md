@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/brayan-pessoa-a0a079255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan pessoa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/braia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="braia" height="30" width="40" /></a>
-<a href="https://instagram.com/brayanperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brayanperson" height="30" width="40" /></a>
+<a href="https://pt.stackoverflow.com/users/351921/braia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="braia" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brayanperson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brayanperson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
